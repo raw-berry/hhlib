@@ -1,3 +1,2 @@
-# hhlib
-there are some simple functions and 
-this is for personal study
+# validate.php
+this is a php class for Array check value
