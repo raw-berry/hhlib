@@ -64,7 +64,7 @@ class Validate{
 	public function getFirstError(){
 		$error = $this->error;
 		if(count($error)>0)
-			return $error[0]
+			return $error[0];
 		return false;
 	}
 }
